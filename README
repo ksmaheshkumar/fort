@@ -1,0 +1,17 @@
+Fort is a Free Software password manager for GNU/Linux. 
+It probably works on other free software operating systems 
+too such as FreeBSD.
+
+Fort allows you to store passwords and other sensitive information.
+Today, it's important not to use the same password on multiple places.
+Passwords should also be more than 8 characters long and contain mixed
+case letters, numbers and special characters. Of course it's impossible
+to remember such passwords. That's where Fort comes in. All you have
+to do is to remember one password, the Fort master key.
+Fort will remember rest of your passwords.
+
+Fort is written in C++ using QT libraries. For encryption it uses 
+Botan library. Data is encrypted using AES with 256bit keys. 
+Fort master key is validated using bcrypt algorithm.
+
+For more see http://www.ideabyte.net/fort/

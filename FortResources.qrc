@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/style">
+        <file>stylesheet.qss</file>
+    </qresource>
+    <qresource prefix="/icons">
+         <file>Clipboard.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+         <file>DocumentDelete.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+         <file>DocumentNew.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+         <file>Keychain.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+         <file>Fort255.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+         <file>Tag.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+         <file>Tag2.png</file>
+    </qresource>
+</RCC>
